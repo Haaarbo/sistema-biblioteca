@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655400910 source:c:\users\user\desktop\abrahão\material\programação\c\sistema de biblioteca\sistema-biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
